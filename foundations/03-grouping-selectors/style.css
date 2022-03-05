@@ -1,0 +1,12 @@
+.mefirst, .mesecond {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+
+.mefirst {
+    background-color: black;
+    color:white;
+}
+.mesecond{
+    background-color: yellow;
+}
