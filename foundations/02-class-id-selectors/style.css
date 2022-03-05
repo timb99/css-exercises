@@ -1,0 +1,18 @@
+.one {
+    background-color:lightcoral;
+    color:black;
+    font-family: verdana,dejavu sans,sans-serif;
+}
+#two {
+    color:blue;
+    font-size: 36px;
+}
+.three {
+    font-size:24px;
+}
+#four{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-style: bold;
+    font-weight:700;
+}
